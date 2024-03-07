@@ -1,0 +1,19 @@
+{
+  "name": "pratica-0",
+  "version": "1.0.0",
+  "description": "Projeto de exemplo para o C216-L1",
+  "main": "index.js",
+  "scripts": {
+    "test": "Não há testes configurados"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabes12/S216-L1-GEC1586.git"
+  },
+  "author": "Gabriel Costa 1586",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabes12/S216-L1-GEC1586/issues"
+  },
+  "homepage": "https://github.com/gabes12/S216-L1-GEC1586#readme"
+}
