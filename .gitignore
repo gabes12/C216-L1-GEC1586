@@ -1,3 +1,6 @@
 
 # Dependências do NodeJS
 node_modules/
+
+# Package-lock
+package-lock.json
