@@ -1,0 +1,15 @@
+{
+  "name": "pratica-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GABRIEL COSTA - 1586",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^11.1.0"
+  }
+}
